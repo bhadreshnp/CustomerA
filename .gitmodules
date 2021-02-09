@@ -1,4 +1,0 @@
-[submodule "CustomerA/GhostDemoPods"]
-	path = CustomerA/GhostDemoPods
-	url = https://github.com/bhadreshnp/GhostDemoPods.git
-	branch = develop
